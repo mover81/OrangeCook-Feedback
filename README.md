@@ -1,3 +1,3 @@
 # OrangeCook-Feedback
-Feedback page of OrangePic
-Please leave any feedback and message for OrangePic. Hope to have a nice day!
+OrangeCook 피드백 페이지
+OrangeCook에 대한 피드백과 메시지를 남겨주세요. 즐겨운 하루 되세요!
